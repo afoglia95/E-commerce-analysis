@@ -1,6 +1,9 @@
-# 📊 NovaMart E-Commerce Performance Analysis (2019–2022)
 
-## 🏢 Project Background
+<img width="1088" height="465" alt="NovaMart banner" src="https://github.com/user-attachments/assets/c94c21d9-d719-4561-88db-71bf3ca87cb3" />
+
+#  NovaMart E-Commerce Performance Analysis (2019–2022)
+
+##  Project Background
 NovaMart is a global e-commerce retailer specializing in consumer electronics, smart devices, and accessories.  
 Since launching in 2018, NovaMart has grown rapidly across four major regions and now manages over 100K orders annually through its website and mobile app.  
 
@@ -9,7 +12,7 @@ The goal is to identify actionable insights that can guide marketing, product, a
 
 ---
 
-## 🧭 Executive Summary
+##  Executive Summary
 <img width="1888" height="1056" alt="image" src="https://github.com/user-attachments/assets/7ff4c85e-591c-41d2-8d2b-d887f0aff97f" />
 NovaMart’s sales accelerated sharply in **2020** during the global e-commerce boom, reaching the company’s highest revenue year.  
 However, by **2022**, total sales had declined by roughly **45%**, primarily due to a drop in order volume rather than pricing or product value.  
@@ -22,9 +25,9 @@ Key opportunities include expanding product variety beyond the top-selling items
 
 ---
 
-## 🔍 Insights Deep Dive
+##  Insights Deep Dive
 
-### 1️⃣ Sales Trends
+###  Sales Trends
 
 <img width="1522" height="699" alt="image" src="https://github.com/user-attachments/assets/8cd88261-8890-4c9c-b272-a7f9359cc95e" />
 
@@ -41,7 +44,7 @@ Sales growth depended heavily on pandemic-related demand in 2020. The 2022 slump
 
 ---
 
-### 2️⃣ Product Performance
+###  Product Performance
 <img width="2723" height="1239" alt="image" src="https://github.com/user-attachments/assets/c7d8786f-cf92-4c42-9281-885d9285781e" />
 
 
@@ -59,7 +62,7 @@ NovaMart’s product mix is narrow and top-heavy. Strength lies in premium elect
 
 ---
 
-### 3️⃣ Loyalty Program Analysis
+###  Loyalty Program Analysis
 <img width="2388" height="1008" alt="image" src="https://github.com/user-attachments/assets/536b3a16-7316-4027-891f-16ef5af3e38d" />
 
 
@@ -74,7 +77,7 @@ The program effectively drives repeat business and higher order values. Further 
 
 ---
 
-### 4️⃣ Regional Performance
+###  Regional Performance
 <img width="1602" height="681" alt="image" src="https://github.com/user-attachments/assets/8f784919-4332-4bdb-a0d3-cb357c989471" />
 
 (The U.S. not included, for clarity)
@@ -93,7 +96,7 @@ NovaMart’s global footprint is uneven. Heavy dependence on North America prese
 
 ---
 
-### 5️⃣ Refund Trends
+###  Refund Trends
 <img width="707" height="127" alt="image" src="https://github.com/user-attachments/assets/81197add-c6ee-4f6c-942f-a98b5e5388b4" />
 
 
@@ -108,7 +111,7 @@ Refund patterns align with product pricing — high-value items are riskier. Tig
 
 ---
 
-## 💡 Recommendations
+##  Recommendations
 
 | **Focus Area** | **Action Items** |
 |----------------|------------------|
@@ -120,14 +123,14 @@ Refund patterns align with product pricing — high-value items are riskier. Tig
 
 ---
 
-## 🧰 Technical Process
+##  Technical Process
 **Tools Used:** Excel (pivot tables, charts), SQL (data cleaning and joins),
 **Dataset:** 108,000+ records across `orders`, `customers`, `geo_lookup`, and `order_status` tables  
 **Key Metrics:** Revenue, Order Count, Average Order Value (AOV), Refund Rate, Loyalty Share  
 
 ---
 
-## ⚠️ Assumptions & Caveats
+##  Assumptions & Caveats
 - Data assumed complete for 2019–2022 with no major gaps.  
 - Refund data missing or incomplete for 2022.  
 - Profit margins and costs unavailable; analysis limited to sales-based metrics.  
@@ -135,7 +138,7 @@ Refund patterns align with product pricing — high-value items are riskier. Tig
 
 ---
 
-## 🏁 Summary
+##  Summary
 NovaMart’s post-pandemic slowdown highlights the need for diversification and loyalty-driven growth.  
 Despite declining order volumes, AOV and member engagement remain strong — positioning NovaMart to recover through focused marketing, portfolio balance, and regional expansion.
 
