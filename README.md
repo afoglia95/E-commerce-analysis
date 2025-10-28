@@ -14,6 +14,7 @@ The goal is to identify actionable insights that can guide marketing, product, a
 
 ##  Executive Summary
 <img width="1888" height="1056" alt="image" src="https://github.com/user-attachments/assets/7ff4c85e-591c-41d2-8d2b-d887f0aff97f" />
+
 NovaMart’s sales accelerated sharply in **2020** during the global e-commerce boom, reaching the company’s highest revenue year.  
 However, by **2022**, total sales had declined by roughly **45%**, primarily due to a drop in order volume rather than pricing or product value.  
 Average Order Value (AOV) decreased only 10%, confirming that customers continued spending similarly per purchase, but made fewer purchases overall.  
@@ -97,17 +98,25 @@ NovaMart’s global footprint is uneven. Heavy dependence on North America prese
 ---
 
 ###  Refund Trends
-<img width="707" height="127" alt="image" src="https://github.com/user-attachments/assets/81197add-c6ee-4f6c-942f-a98b5e5388b4" />
+<img width="869" height="431" alt="image" src="https://github.com/user-attachments/assets/996a096a-b449-4a91-aa35-a1bbc78f894d" />
+<img width="2909" height="933" alt="image" src="https://github.com/user-attachments/assets/c2aeb601-0d6e-4f6f-b130-74ac301c94c3" />
 
 
-**Key Findings**
-- Company-wide refund rate averages **5%** (5,377 of 108K orders).  
-- **MacBook Air** and **ThinkPad** show the highest return rates (~11–12%).  
-- **Headphones** and **accessories** exhibit strong retention (2% or less).  
-- Refunds in 2022 dropped to near zero, possibly due to policy changes or incomplete data capture.
 
-**Interpretation**  
-Refund patterns align with product pricing — high-value items are riskier. Tightening post-purchase support and clarifying product specifications can reduce return rates.
+Key Findings:
+
+- Overall low refund rate - Only 3% of all orders were refunded company-wide
+- Laptops are highest risk - MacBook Air had alarming 16-18% refund rates initially
+- High-volume products drive total numbers - While AirPods had moderate rates (4-10%), they contributed the majority of refunds due to volume
+- Remarkable improvement - All products showed dramatic refund reduction
+- 2022 perfection - Zero refunds across 21,565 orders is extraordinary
+
+Interpretation:
+The corrected data reveals an even stronger performance. With only 3% overall refund rate, the company maintains healthy customer satisfaction. The dramatic improvement from 2020's 5.5% refund rate to 0% in 2022 across all 21,565 orders represents either:
+- Exceptional operational improvements in product quality, descriptions, and customer service
+- Potential data reporting issues that should be verified
+- Policy changes that eliminated refund options
+The focus should remain on high-value items (laptops) that showed the highest refund rates initially, while acknowledging the impressive turnaround across all product categories.
 
 ---
 
