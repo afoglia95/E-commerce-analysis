@@ -1,18 +1,29 @@
 
 <img width="1088" height="465" alt="NovaMart banner" src="https://github.com/user-attachments/assets/c94c21d9-d719-4561-88db-71bf3ca87cb3" />
 
-#  NovaMart E-Commerce Performance Analysis (2019–2022)
+# NovaMart E-Commerce Performance Analysis (2019–2022)
 
-##  Project Background
+## Project Background
 NovaMart is a global e-commerce retailer specializing in consumer electronics, smart devices, and accessories.  
 Since launching in 2018, NovaMart has grown rapidly across four major regions and now manages over 100K orders annually through its website and mobile app.  
 
 This analysis evaluates company performance between **2019 and 2022** to uncover patterns in sales, product demand, regional performance, customer loyalty, and refund behavior.  
 The goal is to identify actionable insights that can guide marketing, product, and operations teams in strengthening NovaMart’s commercial growth.
 
+The dataset consolidates NovaMart’s online transactions, product catalog, and customer segments across four years, allowing a clear view of how the company navigated the post-pandemic shift in e-commerce demand.  
+This analysis acts as a baseline for assessing the company’s digital sales health, customer engagement, and operational efficiency, setting the stage for data-driven decisions in pricing, marketing, and product planning.
+
+**Main topics explored:**
+
+- **Sales Dynamics:** How have NovaMart’s sales and order volumes evolved year over year? What seasonal trends or external events (e.g., pandemic effects) are most visible?
+- **Product Performance:** Which product categories and individual SKUs contribute the most to total revenue? Are sales overly dependent on a few bestsellers?
+- **Customer Loyalty:** How does spending behavior differ between loyalty members and non-members? Has the loyalty program improved customer retention?
+- **Regional Insights:** Which geographic markets are performing best? Where are there opportunities for expansion or marketing localization?
+- **Refund Behavior:** Which products or regions show the highest refund rates? Are refund patterns tied to product price, category, or customer segment?
+
 ---
 
-##  Executive Summary
+## Executive Summary
 <img width="1888" height="1056" alt="image" src="https://github.com/user-attachments/assets/7ff4c85e-591c-41d2-8d2b-d887f0aff97f" />
 
 NovaMart’s sales accelerated sharply in **2020** during the global e-commerce boom, reaching the company’s highest revenue year.  
@@ -24,15 +35,15 @@ Regionally, **North America dominates revenue share (≈55%)**, while **Latin Am
 
 Key opportunities include expanding product variety beyond the top-selling items, optimizing refund handling for high-AOV products, and localizing growth strategies for weaker regions.
 
+**Business Implications:**  
+The findings suggest NovaMart should shift from rapid acquisition to **retention and margin optimization**. The post-2020 decline is not a crisis but a realignment opportunity: the company has a stable base of loyal, high-spending customers, but must diversify its catalog and strengthen engagement in underperforming regions to sustain growth.
+
 ---
 
-##  Insights Deep Dive
+## Insights Deep Dive
 
-###  Sales Trends
-
+### Sales Trends
 <img width="1522" height="699" alt="image" src="https://github.com/user-attachments/assets/8cd88261-8890-4c9c-b272-a7f9359cc95e" />
-
-
 
 **Key Findings**
 - Revenue peaked in **December 2020** (~\$1.25M) but dropped steadily afterward, reaching a low of **\$262K in December 2022**.  
@@ -41,16 +52,13 @@ Key opportunities include expanding product variety beyond the top-selling items
 - Seasonal highs occur in **Q4** (holiday months), while **February and October** are consistently weak.
 
 **Interpretation**  
-Sales growth depended heavily on pandemic-related demand in 2020. The 2022 slump suggests post-pandemic normalization and the need for sustained retention efforts.
+Sales growth depended heavily on pandemic-related demand in 2020. The 2022 slump suggests post-pandemic normalization and the need for sustained retention efforts.  
+The stable AOV despite declining orders indicates that NovaMart’s customer base remained relatively affluent and loyal through 2022. This trend hints that marketing efforts could pivot from volume-based discounting toward **premium positioning** and **cross-selling** strategies that encourage repeat high-value purchases instead of chasing new customers.
 
 ---
 
-###  Product Performance
+### Product Performance
 <img width="2723" height="1239" alt="image" src="https://github.com/user-attachments/assets/c7d8786f-cf92-4c42-9281-885d9285781e" />
-
-
-
-
 
 **Key Findings**
 - Three products — the **27" 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air Laptop** — generated nearly **80% of total sales**.  
@@ -59,12 +67,15 @@ Sales growth depended heavily on pandemic-related demand in 2020. The 2022 slump
 - AOV by product shows high-value laptops (~\$1,100–\$1,600) as major drivers of revenue.
 
 **Interpretation**  
-NovaMart’s product mix is narrow and top-heavy. Strength lies in premium electronics, but over-reliance on three SKUs introduces sales concentration risk.
+NovaMart’s product mix is narrow and top-heavy. Strength lies in premium electronics, but over-reliance on three SKUs introduces sales concentration risk.  
+This imbalance between premium and accessory items highlights a **dependency on a narrow set of high-margin products**. Expanding into mid-range electronics or exclusive bundles could flatten revenue volatility and attract price-sensitive buyers. Conversely, reviewing low-performing SKUs such as the Bose and iPhone lines could free inventory space for new growth categories.
 
 ---
 
-###  Loyalty Program Analysis
-<img width="2388" height="1008" alt="image" src="https://github.com/user-attachments/assets/536b3a16-7316-4027-891f-16ef5af3e38d" />
+### Loyalty Program Analysis
+|<img width="2388" height="1008" alt="image" src="https://github.com/user-attachments/assets/536b3a16-7316-4027-891f-16ef5af3e38d" /> | <img width="4818" height="1898" alt="image" src="https://github.com/user-attachments/assets/fcc50c13-d07f-4541-9063-1f96878f135f" />|   <img width="5955" height="2693" alt="image" src="https://github.com/user-attachments/assets/e26bd7f9-c8a2-40f6-b0cf-de50ff0e9cca" />|
+|----------------|------------------|------------------|
+
 
 
 **Key Findings**
@@ -74,53 +85,53 @@ NovaMart’s product mix is narrow and top-heavy. Strength lies in premium elect
 - Non-loyalty customers still dominate first-time purchases.
 
 **Interpretation**  
-The program effectively drives repeat business and higher order values. Further incentives and personalization can help convert more first-time buyers into members.
+The program effectively drives repeat business and higher order values. Further incentives and personalization can help convert more first-time buyers into members.  
+The data supports continuing investment in the loyalty ecosystem. A segmentation analysis could help NovaMart quantify the **lifetime value (LTV)** difference between loyalty and non-loyalty segments. Automating personalized offers or early-access campaigns for members may further close the retention gap and increase AOV by another 5–10%.
 
 ---
 
-###  Regional Performance
+### Regional Performance
 <img width="1602" height="681" alt="image" src="https://github.com/user-attachments/assets/8f784919-4332-4bdb-a0d3-cb357c989471" />
 
-(The U.S. not included, for clarity)
-
-<img width="1437" height="1133" alt="image" src="https://github.com/user-attachments/assets/aed742f5-0ec6-4a55-a52f-c9f0b355ce91" />
-
+_(The U.S. not included, for clarity)_
 
 **Key Findings**
-- **North America** leads with ~55% of total sales and the highest AOV (approximately $242).  
+- **North America** leads with ~55% of total sales and the highest AOV (approximately \$242).  
 - **Europe, the Middle East & Africa (EMEA)** hold ~30% but show flat growth.  
 - **Latin America (LATAM)** and **APAC** contribute only ~6–8% combined.  
 - Top markets: United States, United Kingdom, Canada, Japan, and Germany.
 
 **Interpretation**  
-NovaMart’s global footprint is uneven. Heavy dependence on North America presents both stability and risk; emerging regions remain largely untapped.
+NovaMart’s global footprint is uneven. Heavy dependence on North America presents both stability and risk; emerging regions remain largely untapped.  
+While North America’s maturity ensures consistent revenue, it limits growth potential. Future gains will likely come from **localized digital marketing and logistics partnerships** in emerging regions. LATAM’s mobile-driven markets and APAC’s appetite for affordable electronics make them strategic targets for expansion once localization and currency infrastructure are improved.
 
 ---
 
-###  Refund Trends
+### Refund Trends
 <img width="869" height="431" alt="image" src="https://github.com/user-attachments/assets/996a096a-b449-4a91-aa35-a1bbc78f894d" />
-<img width="2909" height="933" alt="image" src="https://github.com/user-attachments/assets/c2aeb601-0d6e-4f6f-b130-74ac301c94c3" />
 
 
+**Key Findings**
+- Overall low refund rate — only **3% of all orders** were refunded company-wide.  
+- **Laptops** are highest risk — MacBook Air had alarming **16–18% refund rates** initially.  
+- **High-volume products drive totals** — AirPods had moderate rates (4–10%) but large refund counts due to volume.  
+- **Remarkable improvement** — all products showed dramatic refund reduction.  
+- **2022 perfection** — zero refunds across 21,565 orders is extraordinary.
 
-Key Findings:
+**Interpretation**  
+The corrected data reveals an even stronger performance. With only 3% overall refund rate, the company maintains healthy customer satisfaction. The dramatic improvement from 2020’s 5.5% refund rate to 0% in 2022 across all 21,565 orders represents either:
+- Exceptional operational improvements in product quality, descriptions, and customer service  
+- Potential data reporting issues that should be verified  
+- Policy changes that eliminated refund options  
 
-- Overall low refund rate - Only 3% of all orders were refunded company-wide
-- Laptops are highest risk - MacBook Air had alarming 16-18% refund rates initially
-- High-volume products drive total numbers - While AirPods had moderate rates (4-10%), they contributed the majority of refunds due to volume
-- Remarkable improvement - All products showed dramatic refund reduction
-- 2022 perfection - Zero refunds across 21,565 orders is extraordinary
-
-Interpretation:
-The corrected data reveals an even stronger performance. With only 3% overall refund rate, the company maintains healthy customer satisfaction. The dramatic improvement from 2020's 5.5% refund rate to 0% in 2022 across all 21,565 orders represents either:
-- Exceptional operational improvements in product quality, descriptions, and customer service
-- Potential data reporting issues that should be verified
-- Policy changes that eliminated refund options
-The focus should remain on high-value items (laptops) that showed the highest refund rates initially, while acknowledging the impressive turnaround across all product categories.
+The focus should remain on high-value items (laptops) that showed the highest refund rates initially, while acknowledging the impressive turnaround across all product categories.  
+Although the apparent drop in refunds is positive, such a sudden improvement should trigger a **data quality review**. If confirmed accurate, it signals an operational breakthrough in quality assurance or customer support. If not, NovaMart should prioritize improving refund tracking processes before using refund data in performance KPIs.
 
 ---
 
-##  Recommendations
+## Recommendations
+
+The following actions translate these insights into measurable business steps. Each recommendation targets an internal team (Marketing, Product, or Operations) and can be monitored through metrics like conversion rate, AOV, refund ratio, and retention growth.
 
 | **Focus Area** | **Action Items** |
 |----------------|------------------|
@@ -132,14 +143,14 @@ The focus should remain on high-value items (laptops) that showed the highest re
 
 ---
 
-##  Technical Process
-**Tools Used:** Excel (pivot tables, charts), SQL (data cleaning and joins),
+## Technical Process
+**Tools Used:** Excel (pivot tables, charts), SQL (data cleaning and joins)  
 **Dataset:** 108,000+ records across `orders`, `customers`, `geo_lookup`, and `order_status` tables  
 **Key Metrics:** Revenue, Order Count, Average Order Value (AOV), Refund Rate, Loyalty Share  
 
 ---
 
-##  Assumptions & Caveats
+## Assumptions & Caveats
 - Data assumed complete for 2019–2022 with no major gaps.  
 - Refund data missing or incomplete for 2022.  
 - Profit margins and costs unavailable; analysis limited to sales-based metrics.  
@@ -147,9 +158,9 @@ The focus should remain on high-value items (laptops) that showed the highest re
 
 ---
 
-##  Summary
+## Summary
 NovaMart’s post-pandemic slowdown highlights the need for diversification and loyalty-driven growth.  
-Despite declining order volumes, AOV and member engagement remain strong — positioning NovaMart to recover through focused marketing, portfolio balance, and regional expansion.
+Despite declining order volumes, AOV and member engagement remain strong — positioning NovaMart to recover through focused marketing, portfolio balance, and regional expansion.  
+The overall health of the company remains solid: loyal customers spend more, refund rates are low, and core markets remain profitable. The next step for NovaMart is to **leverage its customer insights to drive sustainable growth and margin efficiency**.
 
 ---
-
