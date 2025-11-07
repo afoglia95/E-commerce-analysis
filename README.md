@@ -44,7 +44,13 @@ This analysis acts as a baseline for assessing the company’s digital sales hea
 - **Leverage Historical Success:** Refine marketing and sales strategies using insights from high-performing periods (Q3/Q4 of strong years)
 - **Strategic Realignment:** Reassess business strategy focusing on pricing, promotions, and customer engagement to regain momentum
 ---
+### Dataset Structure and ERD (Entity relationship diagram)
+The database structure as seen below consists of four tables: orders, customers, geo_lookup, and order_status, with a total row count of 10,8127 records.
 
+<img width="820" height="697" alt="Untitled" src="https://github.com/user-attachments/assets/6afce120-90f2-4e13-8993-7256d35fd828" />
+
+
+---
 ## Insights Deep Dive
 
 ### Sales Trends
