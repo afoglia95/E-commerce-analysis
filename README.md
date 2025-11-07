@@ -26,18 +26,23 @@ This analysis acts as a baseline for assessing the company’s digital sales hea
 ## Executive Summary
 <img width="1888" height="1056" alt="image" src="https://github.com/user-attachments/assets/7ff4c85e-591c-41d2-8d2b-d887f0aff97f" />
 
-NovaMart’s sales accelerated sharply in **2020** during the global e-commerce boom, reaching the company’s highest revenue year.  
-However, by **2022**, total sales had declined by roughly **45%**, primarily due to a drop in order volume rather than pricing or product value.  
-Average Order Value (AOV) decreased only 10%, confirming that customers continued spending similarly per purchase, but made fewer purchases overall.  
+###  Revenue Growth and Peak Performance
+- **COVID-19 Boom:** 2020 was the strongest year, with sales consistently growing each quarter as a result of the pandemic-driven e-commerce surge
+- **Peak Performance:** Q4 2020 saw the highest revenue, peaking at **$1.25M in December**, making it the best-performing period
+- **Sustained Strength:** January 2021 maintained strong sales (**$1.03M**) before the downward trend began
+- **Seasonal Patterns:** Q3 and Q4 consistently show strong performance across all years, indicating predictable seasonal shopping trends
 
-Loyalty members now account for **over half of total sales** and spend **about \$30 more per order** than non-members.  
-Regionally, **North America dominates revenue share (≈55%)**, while **Latin America** and **APAC** remain under-developed markets.  
+###  Declining Trend & Market Correction (2022)
+- **Weak Start:** Q1 2022 began moderately strong (**$704K in January**) but revenue rapidly declined throughout the year
+- **Severe Sales Collapse:** Q4 2022 marked the lowest point with **October ($178K), November ($208K), and December ($262K)** representing the weakest revenue months
+- **Impact Analysis:** The Q4 2022 performance was nearly **80% below the peak** of December 2020, indicating a major market correction
 
-Key opportunities include expanding product variety beyond the top-selling items, optimizing refund handling for high-AOV products, and localizing growth strategies for weaker regions.
+###  Key Takeaways & Recommendations
+**Based on the extreme volatility and recent decline, these strategic steps are critical:**
 
-**Business Implications:**  
-The findings suggest NovaMart should shift from rapid acquisition to **retention and margin optimization**. The post-2020 decline is not a crisis but a realignment opportunity: the company has a stable base of loyal, high-spending customers, but must diversify its catalog and strengthen engagement in underperforming regions to sustain growth.
-
+- **Investigate the 2022 Decline:** Immediately analyze root causes (market changes, competition, internal factors) to inform 2023 strategy
+- **Leverage Historical Success:** Refine marketing and sales strategies using insights from high-performing periods (Q3/Q4 of strong years)
+- **Strategic Realignment:** Reassess business strategy focusing on pricing, promotions, and customer engagement to regain momentum
 ---
 
 ## Insights Deep Dive
