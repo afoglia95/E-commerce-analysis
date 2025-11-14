@@ -5,7 +5,7 @@
 
 ## Project Background
 NovaMart is a global e-commerce retailer specializing in consumer electronics, smart devices, and accessories.  
-Since launching in 2018, NovaMart has grown rapidly across four major regions and now manages over 100K orders annually through its website and mobile app.  
+Since launching in 2018, NovaMart has grown rapidly across four major regions and now manages over 100K orders through its website and mobile app.  
 
 This analysis evaluates company performance between **2019 and 2022** to uncover patterns in sales, product demand, regional performance, customer loyalty, and refund behavior.  
 The goal is to identify actionable insights that can guide marketing, product, and operations teams in strengthening NovaMart’s commercial growth.
@@ -124,8 +124,8 @@ While North America’s maturity ensures consistent revenue, it limits growth po
 
 **Key Findings**
 - Overall low refund rate — only **3% of all orders** were refunded company-wide.  
-- **Laptops** are highest risk — MacBook Air had alarming **16–18% refund rates** initially.  
-- **High-volume products drive totals** — AirPods had moderate rates (4–10%) but large refund counts due to volume.  
+- **Laptops** are highest risk — MacBook Air had alarming **18% refund rates** initially.  
+- **High-volume products drive totals** — AirPods had moderate rates (6%) but large refund counts due to volume.  
 - **Remarkable improvement** — all products showed dramatic refund reduction.  
 - **2022 perfection** — zero refunds across 21,565 orders is extraordinary.
 
