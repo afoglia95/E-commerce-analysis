@@ -118,14 +118,15 @@ The data confirms the Loyalty Program is a highly successful strategic asset for
 _(The U.S. not included, for clarity)_
 
 **Key Findings**
-- **North America** leads with ~55% of total sales and the highest AOV (approximately \$242).  
-- **Europe, the Middle East & Africa (EMEA)** hold ~30% but show flat growth.  
-- **Latin America (LATAM)** and **APAC** contribute only ~6–8% combined.  
-- Top markets: United States, United Kingdom, Canada, Japan, and Germany.
+
+- **Primary Revenue Driver: North America (NA)** is the foundational revenue engine, contributing ~55% of total sales and driving the highest Average Order Value (AOV) at ~$242.
+- **Stagnant Maturity**: EMEA holds a substantial ~30% sales share but shows a trend of flat, limited growth across the period, suggesting market maturity or saturation.
+- **Untapped Potential: LATAM and APAC are severely under-tapped**, contributing only 6–8% of total sales combined, despite including high-potential markets like Japan.
+- **Top Markets**: The highest sales concentration is found in the **United States, United Kingdom, Canada, Japan**, and **Germany**.
 
 **Interpretation**  
-NovaMart’s global footprint is uneven. Heavy dependence on North America presents both stability and risk; emerging regions remain largely untapped.  
-While North America’s maturity ensures consistent revenue, it limits growth potential. Future gains will likely come from **localized digital marketing and logistics partnerships** in emerging regions. LATAM’s mobile-driven markets and APAC’s appetite for affordable electronics make them strategic targets for expansion once localization and currency infrastructure are improved.
+NovaMart's heavy reliance on the mature North American market presents a key strategic risk, as future revenue growth will be structurally constrained in this region. The analysis confirms an uneven global footprint.
+The strategic priority must shift toward aggressive activation of the untapped LATAM and APAC markets. These regions, with their high-growth populations and unique consumer demands (such as LATAM’s mobile-driven commerce), represent the next frontier for sustainable revenue expansion. Success requires investment in localized digital marketing, optimized logistics, and currency infrastructure to effectively convert the potential volume in these regions.
 
 ---
 
