@@ -57,14 +57,18 @@ The database structure as seen below consists of four tables: orders, customers,
 <img width="1522" height="699" alt="image" src="https://github.com/user-attachments/assets/8cd88261-8890-4c9c-b272-a7f9359cc95e" />
 
 **Key Findings**
-- Revenue peaked in **December 2020** (~\$1.25M) but dropped steadily afterward, reaching a low of **\$262K in December 2022**.  
-- **Order volume** declined 38% from 2021 to 2022, driving most of the revenue loss.  
-- **AOV** remained relatively stable, ranging from \$230–\$320, indicating price consistency.  
-- Seasonal highs occur in **Q4** (holiday months), while **February and October** are consistently weak.
+- Average order value rises sharply from early 2020 to late 2020, reaching the highest point in the entire series.
+- After this peak, the average steadily declines throughout 2021, showing a slow but continuous downward trend.
+- In 2022, the average stabilizes at a lower but consistent range, with only minor fluctuations month to month.
+- Despite the general decline, the graph shows occasional short-term upticks, particularly small spikes in early and mid-2022.
+- Over the full 4-year span, the chart shows a clear pattern: rapid growth, then post-peak correction, and finally long-term stabilization.
 
 **Interpretation**  
-Sales growth depended heavily on pandemic-related demand in 2020. The 2022 slump suggests post-pandemic normalization and the need for sustained retention efforts.  
-The stable AOV despite declining orders indicates that NovaMart’s customer base remained relatively affluent and loyal through 2022. This trend hints that marketing efforts could pivot from volume-based discounting toward **premium positioning** and **cross-selling** strategies that encourage repeat high-value purchases instead of chasing new customers.
+The chart highlights a sharp rise in spending during 2020, followed by a gradual normalization in 2021 and a plateau in 2022. This pattern suggests an external surge in demand (such as the global shift to online purchasing in 2020), followed by a rebalancing period in which average order values returned to more sustainable levels.
+
+The stabilization seen throughout 2022 indicates that NovaMart’s pricing and purchasing behavior settled into a predictable range, even as earlier momentum tapered off. This consistency at the end of the series can be positive for forecasting, as it reflects a more stable customer spending baseline after several years of volatility.
+
+The periodic small spikes (particularly in mid-2022) suggest moments of higher-ticket purchases or short promotional cycles, though the overall pattern remains steady. NovaMart’s long-term opportunity lies in finding ways to recreate the high-value behavior observed during the 2020 peak without relying on the exceptional conditions that originally caused it.
 
 ---
 
@@ -72,14 +76,22 @@ The stable AOV despite declining orders indicates that NovaMart’s customer bas
 <img width="2723" height="1239" alt="image" src="https://github.com/user-attachments/assets/c7d8786f-cf92-4c42-9281-885d9285781e" />
 
 **Key Findings**
-- Three products — the **27" 4K Gaming Monitor**, **Apple AirPods**, and **MacBook Air Laptop** — generated nearly **80% of total sales**.  
-- Accessories such as the **Samsung Charging Cable Pack** grew as a share of orders (≈30%) but still contribute <5% of total revenue.  
-- The **Bose SoundSport Headphones** and **Apple iPhone** consistently underperform (<1% of sales).  
-- AOV by product shows high-value laptops (~\$1,100–\$1,600) as major drivers of revenue.
+- The 27” 4K Gaming Monitor is NovaMart’s top-selling product, generating the highest revenue across all SKUs — nearly $10M over the analyzed period.
+- Apple AirPods Headphones follow as the second-highest revenue driver, contributing close to $8M in sales.
+- The MacBook Air Laptop ranks third with roughly $6.2M, reinforcing the strong performance of premium electronics.
+- Lower-priced accessory items — including the Samsung Charging Cable Pack and Samsung Webcam — show significantly lower revenue, each contributing under $500K, despite likely higher unit volume.
+- Bose SoundSport Headphones and Apple iPhone show the weakest revenue contribution, generating barely visible amounts relative to the rest of the product lineup.
+- ThinkPad Laptop stands as a mid-tier performer, bringing in close to $3M, noticeably below NovaMart’s top three products but far above the lower-accessory tier.
 
 **Interpretation**  
-NovaMart’s product mix is narrow and top-heavy. Strength lies in premium electronics, but over-reliance on three SKUs introduces sales concentration risk.  
-This imbalance between premium and accessory items highlights a **dependency on a narrow set of high-margin products**. Expanding into mid-range electronics or exclusive bundles could flatten revenue volatility and attract price-sensitive buyers. Conversely, reviewing low-performing SKUs such as the Bose and iPhone lines could free inventory space for new growth categories.
+
+NovaMart’s revenue is heavily concentrated in three flagship products — the 27” Gaming Monitor, AirPods, and MacBook Air — which collectively dominate the company’s sales profile. This indicates strong customer demand for high-end, high-margin electronics.
+However, the stark contrast between premium products and the long tail of accessories reveals a polarized product portfolio:
+- Premium devices drive the majority of revenue but expose the company to concentration risk—any decline in top-SKU performance could materially impact total sales.
+- Accessories and lower-cost items generate minimal revenue despite likely strong unit movement, suggesting under-leveraged opportunities such as bundling, cross-selling, or volume-based promotions.
+- Underperforming items like the Bose SoundSport Headphones and Apple iPhone present potential candidates for product retirement, price repositioning, or inventory restructuring.
+  
+Overall, the chart signals that NovaMart excels in selling premium electronics but would benefit from diversifying its revenue sources and strengthening mid-range category performance.
 
 ---
 
