@@ -102,14 +102,13 @@ Overall, the chart signals that NovaMart excels in selling premium electronics b
 
 
 **Key Findings**
-- Loyalty sales increased from **10% in 2019** to **55% in 2022**.  
-- Members’ **AOV** rose steadily to \$245 versus \$214 for non-members.  
-- Loyalty customers make more frequent repeat purchases and show higher retention.  
-- Non-loyalty customers still dominate first-time purchases.
+
+- Sales Contribution: The Loyalty Program's sales share has seen aggressive growth, rising from just 10% of total sales in 2019 to commanding a majority 55% share in 2022.
+- Average Order Value (AOV): Loyalty members demonstrate a higher willingness to spend per transaction, maintaining an AOV of $245, a significant premium over the $214 AOV achieved by non-members.
+- Customer Lifetime Value (LTV) Proxy: This consistent growth in sales share and higher AOV strongly indicates that loyalty members have a superior LTV due to increased purchase frequency and retention.
 
 **Interpretation**  
-The program effectively drives repeat business and higher order values. Further incentives and personalization can help convert more first-time buyers into members.  
-The data supports continuing investment in the loyalty ecosystem. A segmentation analysis could help NovaMart quantify the **lifetime value (LTV)** difference between loyalty and non-loyalty segments. Automating personalized offers or early-access campaigns for members may further close the retention gap and increase AOV by another 5–10%.
+The data confirms the Loyalty Program is a highly successful strategic asset for NovaMart, having matured from a peripheral feature into the dominant driver of sales growth. The significant difference in AOV and sales share confirms that loyalty members represent the highest-value customer segment. Therefore, the core business objective should shift from simply maintaining the program to accelerating the conversion of first-time buyers into members. This strategy ensures the continuous expansion of the highest-value cohort, directly impacting both top-line revenue and long-term customer equity.
 
 ---
 
