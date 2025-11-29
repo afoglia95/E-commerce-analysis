@@ -158,11 +158,11 @@ The following actions translate these insights into measurable business steps. E
 
 | **Focus Area** | **Action Items** |
 |----------------|------------------|
-| **Sales & Marketing** | Launch seasonal campaigns to offset predictable dips (Feb & Oct). Reinforce Q4 promotions for maximum conversion. |
-| **Product Strategy** | Diversify product portfolio beyond the top 3 SKUs. Bundle accessories with high-AOV items to raise total basket value. |
-| **Loyalty Program** | Introduce tiered rewards, referral bonuses, and exclusive early-access sales to boost engagement. |
-| **Regional Growth** | Localize pricing, marketing, and logistics for LATAM and APAC to capture underperforming markets. |
-| **Refund Management** | Review high-refund categories (laptops) for product-quality issues and improve after-sales communication. |
+| **Sales & Marketing** | Launch seasonal campaigns to offset predictable dips in February and October, which consistently fall 10–15% below adjacent months. Strengthen Q4 promotions to capitalize on periods like December 2020, which peaked at $1.25M, the highest month on record. |
+| **Product Strategy** | Diversify the catalog beyond the top 3 SKUs, which currently generate over 75% of total revenue. Bundle low-revenue accessories (each contributing < $500K) with high-AOV laptops and monitors to lift underperforming categories. |
+| **Loyalty Program** | Expand loyalty incentives to grow the member base, as members already contribute 55% of total 2022 sales and spend $31 more per order than non-members ($245 vs. $214). |
+| **Regional Growth** | Prioritize LATAM and APAC expansion, which combined contribute only 6–8% of global sales, despite containing high-potential markets like Japan. Localizing pricing and logistics can reduce dependency on North America, currently at ~55% of revenue. |
+| **Refund Management** | Investigate refund issues in high-AOV categories like the MacBook Air, which reached early refund rates of 16–18%. Improve post-purchase communication and product descriptions to maintain the current company-wide low 3% total refund rate. |
 
 ---
 
