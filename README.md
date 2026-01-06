@@ -114,8 +114,9 @@ The data confirms the Loyalty Program is a highly successful strategic asset for
 
 ### Regional Performance
 
-<img width="1602" height="681" alt="image" src=https://github.com/afoglia95/E-commerce-analysis/blob/main/Images/Sales%20per%20Region%20US.png" />
-<img width="1602" height="681" alt="image" src="https://github.com/afoglia95/E-commerce-analysis/blob/main/Images/Sales%20per%20Region%20without%20US.png" />
+<img width="1201" height="713" alt="Sales per Region US" src="https://github.com/user-attachments/assets/04bc3b5e-ac45-4624-bb4b-812bc0b0c7b2" />
+
+<img width="1140" height="685" alt="Sales per Region without US" src="https://github.com/user-attachments/assets/2116f9b9-0c05-4ca8-a05a-a038f39aad57" />
 
 
 **Key Findings**
